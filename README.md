@@ -6,7 +6,7 @@ Hello World ! dita em varios idiomas diferentes.
 
 ```c
 	make
-	./main.o -pt
+	./hw -pt
 ```
 
 ### Tornar o software um programa padrão
