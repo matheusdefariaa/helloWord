@@ -1,6 +1,6 @@
 # Hello World !
 
-## Bandeiras de paises
+## 🇧🇷🇦🇷🇺🇲🇯🇵🇮🇷🇨🇿🇩🇰🇩🇪🇦🇲🇨🇳🇮🇪
 
 Hello World ! dita em varios idiomas diferentes.
 
