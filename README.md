@@ -2,7 +2,7 @@
 
 ## 🇧🇷🇦🇷🇺🇲🇯🇵🇮🇷🇨🇿🇩🇰🇩🇪🇦🇲🇨🇳🇮🇪
 
-Hello World ! dita em varios idiomas diferentes.
+Hello World ! Dita em vários idiomas diferentes.
 
 ```c
 	make
